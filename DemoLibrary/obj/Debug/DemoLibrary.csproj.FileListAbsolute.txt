@@ -1,0 +1,17 @@
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.abstractions.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.runner.reporters.net452.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.runner.utility.net452.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.assert.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.core.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.execution.desktop.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.assert.xml
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.core.xml
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\xunit.execution.desktop.xml
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\pk\Courses\Azure\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.pdb
